@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PCA9306_0
+D Dual bidirectional I2C Bus and SMBus voltage level translator
+K Dual bidirectional I2C Bus and SMBus voltage level translator
+F http://www.ti.com/lit/ds/symlink/pca9306.pdf
+$ENDCMP
+#
+$CMP TCA9803
+D Level-Translating I2C Bus Buffer/Repeater
+K Level-Translating I2C Bus Buffer/Repeater
+F https://www.ti.com/lit/ds/symlink/tca9803.pdf
+$ENDCMP
+#
+#End Doc Library

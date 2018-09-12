@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name Universal)(type KiCad)(uri ${KIPRJMOD}/component-libraries/KiCad/Universal.pretty)(options "")(descr ""))
+  (lib (name HSMC)(type KiCad)(uri ${KIPRJMOD}/HSMC.pretty)(options "")(descr ""))
+  (lib (name Phoenix_MFKDS)(type KiCad)(uri ${KIPRJMOD}/Phoenix_MFKDS.pretty)(options "")(descr ""))
+)
