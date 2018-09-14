@@ -866,8 +866,6 @@ Text Label 9350 4150 0    50   ~ 0
 GPIO36
 Text Label 9350 4250 0    50   ~ 0
 GPIO38
-Wire Wire Line
-	9350 1450 9850 1450
 Entry Wire Line
 	9250 1350 9350 1450
 Entry Wire Line
@@ -915,39 +913,21 @@ Wire Wire Line
 Wire Wire Line
 	9350 1550 9850 1550
 Wire Wire Line
-	9350 1750 9850 1750
-Wire Wire Line
 	9350 1850 9850 1850
-Wire Wire Line
-	9350 2050 9850 2050
 Wire Wire Line
 	9350 2150 9850 2150
 Wire Wire Line
-	9350 2350 9850 2350
-Wire Wire Line
 	9350 2450 9850 2450
-Wire Wire Line
-	9350 2650 9850 2650
 Wire Wire Line
 	9350 2750 9850 2750
 Wire Wire Line
-	9350 2950 9850 2950
-Wire Wire Line
 	9350 3050 9850 3050
-Wire Wire Line
-	9350 3250 9850 3250
 Wire Wire Line
 	9350 3350 9850 3350
 Wire Wire Line
-	9350 3550 9850 3550
-Wire Wire Line
 	9350 3650 9850 3650
 Wire Wire Line
-	9350 3850 9850 3850
-Wire Wire Line
 	9350 3950 9850 3950
-Wire Wire Line
-	9350 4150 9850 4150
 Text Label 12250 1550 2    50   ~ 0
 GPIO3
 Text Label 12250 1750 2    50   ~ 0
@@ -1114,9 +1094,29 @@ NoConn ~ 5700 3200
 NoConn ~ 5700 3300
 NoConn ~ 5700 3500
 Wire Bus Line
-	9250 900  13050 900 
+	12350 1000 12350 4150
 Wire Bus Line
 	9250 900  9250 4150
 Wire Bus Line
-	12350 1000 12350 4150
+	9250 900  13050 900 
+Wire Wire Line
+	9350 4150 9850 4150
+Wire Wire Line
+	9350 3850 9850 3850
+Wire Wire Line
+	9350 3550 9850 3550
+Wire Wire Line
+	9350 3250 9850 3250
+Wire Wire Line
+	9350 2950 9850 2950
+Wire Wire Line
+	9350 2650 9850 2650
+Wire Wire Line
+	9350 2350 9850 2350
+Wire Wire Line
+	9350 2050 9850 2050
+Wire Wire Line
+	9350 1750 9850 1750
+Wire Wire Line
+	9350 1450 9850 1450
 $EndSCHEMATC
