@@ -16,17 +16,6 @@ Comment4 ""
 $EndDescr
 $Comp
 L HSMC:HSMC J1
-U 1 1 5B8956F1
-P 1850 1300
-F 0 "J1" H 2600 1465 50  0000 C CNN
-F 1 "HSMC" H 2600 1374 50  0000 C CNN
-F 2 "HSMC:HSMC_Card_QTH-090-01-L-D-A" H 1700 1450 50  0001 C CNN
-F 3 "https://www.intel.com/content/dam/altera-www/global/en_US/pdfs/literature/ds/hsmc_spec.pdf" H 2650 1550 50  0001 C CNN
-	1    1850 1300
-	1    0    0    -1  
-$EndComp
-$Comp
-L HSMC:HSMC J1
 U 2 1 5B89577B
 P 5900 1300
 F 0 "J1" H 6650 1465 50  0000 C CNN
@@ -633,8 +622,6 @@ NoConn ~ 3550 2100
 NoConn ~ 3550 2000
 NoConn ~ 3550 1800
 NoConn ~ 3550 1700
-NoConn ~ 3550 1500
-NoConn ~ 3550 1400
 Wire Wire Line
 	10000 6950 9800 6950
 $Comp
@@ -1194,10 +1181,23 @@ Wire Wire Line
 	7600 4200 8100 4200
 Wire Wire Line
 	11850 4050 11750 4050
+$Comp
+L HSMC:HSMC J1
+U 1 1 5B8956F1
+P 1850 1300
+F 0 "J1" H 2600 1465 50  0000 C CNN
+F 1 "HSMC" H 2600 1374 50  0000 C CNN
+F 2 "HSMC:HSMC_Card_QTH-090-01-L-D-A" H 1700 1450 50  0001 C CNN
+F 3 "https://www.intel.com/content/dam/altera-www/global/en_US/pdfs/literature/ds/hsmc_spec.pdf" H 2650 1550 50  0001 C CNN
+	1    1850 1300
+	1    0    0    -1  
+$EndComp
+NoConn ~ 3550 1500
+NoConn ~ 3550 1400
 Wire Bus Line
 	8300 900  13050 900 
 Wire Bus Line
-	12350 1000 12350 4150
-Wire Bus Line
 	8200 1000 8200 4100
+Wire Bus Line
+	12350 1000 12350 4150
 $EndSCHEMATC
