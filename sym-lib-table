@@ -1,4 +1,4 @@
 (sym_lib_table
   (lib (name HSMC)(type Legacy)(uri /home/caleb/Desktop/HSMC-GPIO-kicad/HSMC.lib)(options "")(descr ""))
-  (lib (name TCA9517)(type Legacy)(uri ${KIPRJMOD}/TCA9517.lib)(options "")(descr ""))
+  (lib (name PCA95xx)(type Legacy)(uri /home/caleb/Desktop/HSMC-GPIO-kicad/PCA95xx.lib)(options "")(descr ""))
 )

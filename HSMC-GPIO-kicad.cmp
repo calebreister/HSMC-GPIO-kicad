@@ -1,4 +1,44 @@
-Cmp-Mod V01 Created by PcbNew   date = Thu Sep 20 13:52:08 2018
+Cmp-Mod V01 Created by PcbNew   date = Thu Sep 20 15:59:43 2018
+
+BeginCmp
+TimeStamp = 5BA4638A
+Path = /5BB12861
+Reference = C20;
+ValeurCmp = 10u;
+IdModule  = Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BA489E5
+Path = /5BAD156E
+Reference = C19;
+ValeurCmp = 10u;
+IdModule  = Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BA463F6
+Path = /5BAD15CA
+Reference = C18;
+ValeurCmp = 10u;
+IdModule  = Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BA61693
+Path = /5DC21CD2
+Reference = C3;
+ValeurCmp = 10u;
+IdModule  = Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BA617FB
+Path = /5DEDB05B
+Reference = C2;
+ValeurCmp = 10u;
+IdModule  = Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B;
+EndCmp
 
 BeginCmp
 TimeStamp = 5BB68DD8
@@ -321,48 +361,8 @@ IdModule  = Package_TO_SOT_SMD:SOT-23;
 EndCmp
 
 BeginCmp
-TimeStamp = 5BA63657
-Path = /5BB12861
-Reference = C20;
-ValeurCmp = 10u;
-IdModule  = Capacitor_Tantalum_SMD:CP_EIA-3528-15_AVX-H;
-EndCmp
-
-BeginCmp
-TimeStamp = 5BA6368D
-Path = /5BAD156E
-Reference = C19;
-ValeurCmp = 10u;
-IdModule  = Capacitor_Tantalum_SMD:CP_EIA-3528-15_AVX-H;
-EndCmp
-
-BeginCmp
-TimeStamp = 5BA636C3
-Path = /5BAD15CA
-Reference = C18;
-ValeurCmp = 10u;
-IdModule  = Capacitor_Tantalum_SMD:CP_EIA-3528-15_AVX-H;
-EndCmp
-
-BeginCmp
-TimeStamp = 5BA5F45F
-Path = /5DC21CD2
-Reference = C3;
-ValeurCmp = 10u;
-IdModule  = Capacitor_Tantalum_SMD:CP_EIA-3528-15_AVX-H;
-EndCmp
-
-BeginCmp
-TimeStamp = 5BA5F495
-Path = /5DEDB05B
-Reference = C2;
-ValeurCmp = 10u;
-IdModule  = Capacitor_Tantalum_SMD:CP_EIA-3528-15_AVX-H;
-EndCmp
-
-BeginCmp
 TimeStamp = 5BA5C7C1
-Path = /5B8956F1
+Path = /5B89577B
 Reference = J1;
 ValeurCmp = HSMC;
 IdModule  = HSMC:HSMC_Card_QTH-090-01-L-D-A;
@@ -385,7 +385,7 @@ IdModule  = HSMC:MountingHole;
 EndCmp
 
 BeginCmp
-TimeStamp = 5BA63602
+TimeStamp = 5BA48A96
 Path = /5DD1C17D
 Reference = J4;
 ValeurCmp = Screw_Terminal_01x04;
@@ -393,7 +393,7 @@ IdModule  = TerminalBlock:TerminalBlock_bornier-4_P5.08mm;
 EndCmp
 
 BeginCmp
-TimeStamp = 5BA5F407
+TimeStamp = 5BA616DD
 Path = /5DB0F90A
 Reference = U1;
 ValeurCmp = MC78M05_TO252;
@@ -801,7 +801,7 @@ IdModule  = Resistor_SMD:R_0603_1608Metric;
 EndCmp
 
 BeginCmp
-TimeStamp = 5BA5ED34
+TimeStamp = 5BA7523D
 Path = /5C20C81F
 Reference = J3;
 ValeurCmp = I2C;
@@ -809,7 +809,7 @@ IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical;
 EndCmp
 
 BeginCmp
-TimeStamp = 5BA5F2AA
+TimeStamp = 5BA61733
 Path = /5DB7538F
 Reference = C4;
 ValeurCmp = 100n;
@@ -817,7 +817,7 @@ IdModule  = Capacitor_SMD:C_0805_2012Metric;
 EndCmp
 
 BeginCmp
-TimeStamp = 5BA5ECFD
+TimeStamp = 5BA73B29
 Path = /5CC94DA9
 Reference = C5;
 ValeurCmp = 100n;
@@ -825,7 +825,7 @@ IdModule  = Capacitor_SMD:C_0805_2012Metric;
 EndCmp
 
 BeginCmp
-TimeStamp = 5BA5ED72
+TimeStamp = 5BA73AF9
 Path = /5CC50C01
 Reference = C6;
 ValeurCmp = 100n;
@@ -841,7 +841,7 @@ IdModule  = Connector_IDC:IDC-Header_2x20_P2.54mm_Vertical;
 EndCmp
 
 BeginCmp
-TimeStamp = 5BA5EDFC
+TimeStamp = 5BA99175
 Path = /5CA5FD8D
 Reference = J2;
 ValeurCmp = Conn_01x03_Male;
@@ -849,7 +849,7 @@ IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical;
 EndCmp
 
 BeginCmp
-TimeStamp = 5BA5EDAE
+TimeStamp = 5BA93C37
 Path = /5C863CF5
 Reference = U2;
 ValeurCmp = TCA9517;

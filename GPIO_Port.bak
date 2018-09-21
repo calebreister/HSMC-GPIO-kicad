@@ -23,7 +23,7 @@ AR Path="/5B887737/5B891BA0" Ref="D?"  Part="1"
 AR Path="/5B89AD18/5B891BA0" Ref="D1"  Part="1" 
 F 0 "D1" V 1046 1188 50  0000 L CNN
 F 1 "BAT54S" V 955 1188 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-323_SC-70" H 1075 1225 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 1075 1225 50  0001 L CNN
 F 3 "https://www.diodes.com/assets/Datasheets/ds11005.pdf" H 880 1100 50  0001 C CNN
 	1    1000 1100
 	0    -1   -1   0   
@@ -67,7 +67,7 @@ AR Path="/5B887737/5B891BB4" Ref="D?"  Part="1"
 AR Path="/5B89AD18/5B891BB4" Ref="D2"  Part="1" 
 F 0 "D2" V 1796 1188 50  0000 L CNN
 F 1 "BAT54S" V 1705 1188 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-323_SC-70" H 1825 1225 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 1825 1225 50  0001 L CNN
 F 3 "https://www.diodes.com/assets/Datasheets/ds11005.pdf" H 1630 1100 50  0001 C CNN
 	1    1750 1100
 	0    -1   -1   0   
@@ -111,7 +111,7 @@ AR Path="/5B887737/5B891BC8" Ref="D?"  Part="1"
 AR Path="/5B89AD18/5B891BC8" Ref="D3"  Part="1" 
 F 0 "D3" V 2546 1188 50  0000 L CNN
 F 1 "BAT54S" V 2455 1188 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-323_SC-70" H 2575 1225 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 2575 1225 50  0001 L CNN
 F 3 "https://www.diodes.com/assets/Datasheets/ds11005.pdf" H 2380 1100 50  0001 C CNN
 	1    2500 1100
 	0    -1   -1   0   
@@ -155,7 +155,7 @@ AR Path="/5B887737/5B891BDC" Ref="D?"  Part="1"
 AR Path="/5B89AD18/5B891BDC" Ref="D4"  Part="1" 
 F 0 "D4" V 3296 1188 50  0000 L CNN
 F 1 "BAT54S" V 3205 1188 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-323_SC-70" H 3325 1225 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 3325 1225 50  0001 L CNN
 F 3 "https://www.diodes.com/assets/Datasheets/ds11005.pdf" H 3130 1100 50  0001 C CNN
 	1    3250 1100
 	0    -1   -1   0   
@@ -199,7 +199,7 @@ AR Path="/5B887737/5B891BF0" Ref="D?"  Part="1"
 AR Path="/5B89AD18/5B891BF0" Ref="D5"  Part="1" 
 F 0 "D5" V 4046 1188 50  0000 L CNN
 F 1 "BAT54S" V 3955 1188 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-323_SC-70" H 4075 1225 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 4075 1225 50  0001 L CNN
 F 3 "https://www.diodes.com/assets/Datasheets/ds11005.pdf" H 3880 1100 50  0001 C CNN
 	1    4000 1100
 	0    -1   -1   0   
@@ -243,7 +243,7 @@ AR Path="/5B887737/5B891C04" Ref="D?"  Part="1"
 AR Path="/5B89AD18/5B891C04" Ref="D6"  Part="1" 
 F 0 "D6" V 4796 1188 50  0000 L CNN
 F 1 "BAT54S" V 4705 1188 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-323_SC-70" H 4825 1225 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 4825 1225 50  0001 L CNN
 F 3 "https://www.diodes.com/assets/Datasheets/ds11005.pdf" H 4630 1100 50  0001 C CNN
 	1    4750 1100
 	0    -1   -1   0   
@@ -287,7 +287,7 @@ AR Path="/5B887737/5B891C18" Ref="D?"  Part="1"
 AR Path="/5B89AD18/5B891C18" Ref="D7"  Part="1" 
 F 0 "D7" V 5546 1188 50  0000 L CNN
 F 1 "BAT54S" V 5455 1188 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-323_SC-70" H 5575 1225 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 5575 1225 50  0001 L CNN
 F 3 "https://www.diodes.com/assets/Datasheets/ds11005.pdf" H 5380 1100 50  0001 C CNN
 	1    5500 1100
 	0    -1   -1   0   
@@ -331,7 +331,7 @@ AR Path="/5B887737/5B891C2C" Ref="D?"  Part="1"
 AR Path="/5B89AD18/5B891C2C" Ref="D8"  Part="1" 
 F 0 "D8" V 6296 1188 50  0000 L CNN
 F 1 "BAT54S" V 6205 1188 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-323_SC-70" H 6325 1225 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 6325 1225 50  0001 L CNN
 F 3 "https://www.diodes.com/assets/Datasheets/ds11005.pdf" H 6130 1100 50  0001 C CNN
 	1    6250 1100
 	0    -1   -1   0   
@@ -375,7 +375,7 @@ AR Path="/5B887737/5B891C40" Ref="D?"  Part="1"
 AR Path="/5B89AD18/5B891C40" Ref="D9"  Part="1" 
 F 0 "D9" V 1046 2288 50  0000 L CNN
 F 1 "BAT54S" V 955 2288 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-323_SC-70" H 1075 2325 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 1075 2325 50  0001 L CNN
 F 3 "https://www.diodes.com/assets/Datasheets/ds11005.pdf" H 880 2200 50  0001 C CNN
 	1    1000 2200
 	0    -1   -1   0   
@@ -419,7 +419,7 @@ AR Path="/5B887737/5B891C54" Ref="D?"  Part="1"
 AR Path="/5B89AD18/5B891C54" Ref="D10"  Part="1" 
 F 0 "D10" V 1796 2288 50  0000 L CNN
 F 1 "BAT54S" V 1705 2288 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-323_SC-70" H 1825 2325 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 1825 2325 50  0001 L CNN
 F 3 "https://www.diodes.com/assets/Datasheets/ds11005.pdf" H 1630 2200 50  0001 C CNN
 	1    1750 2200
 	0    -1   -1   0   
@@ -463,7 +463,7 @@ AR Path="/5B887737/5B891C68" Ref="D?"  Part="1"
 AR Path="/5B89AD18/5B891C68" Ref="D11"  Part="1" 
 F 0 "D11" V 2546 2288 50  0000 L CNN
 F 1 "BAT54S" V 2455 2288 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-323_SC-70" H 2575 2325 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 2575 2325 50  0001 L CNN
 F 3 "https://www.diodes.com/assets/Datasheets/ds11005.pdf" H 2380 2200 50  0001 C CNN
 	1    2500 2200
 	0    -1   -1   0   
@@ -507,7 +507,7 @@ AR Path="/5B887737/5B891C7C" Ref="D?"  Part="1"
 AR Path="/5B89AD18/5B891C7C" Ref="D12"  Part="1" 
 F 0 "D12" V 3296 2288 50  0000 L CNN
 F 1 "BAT54S" V 3205 2288 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-323_SC-70" H 3325 2325 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 3325 2325 50  0001 L CNN
 F 3 "https://www.diodes.com/assets/Datasheets/ds11005.pdf" H 3130 2200 50  0001 C CNN
 	1    3250 2200
 	0    -1   -1   0   
@@ -551,7 +551,7 @@ AR Path="/5B887737/5B891C90" Ref="D?"  Part="1"
 AR Path="/5B89AD18/5B891C90" Ref="D13"  Part="1" 
 F 0 "D13" V 4046 2288 50  0000 L CNN
 F 1 "BAT54S" V 3955 2288 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-323_SC-70" H 4075 2325 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 4075 2325 50  0001 L CNN
 F 3 "https://www.diodes.com/assets/Datasheets/ds11005.pdf" H 3880 2200 50  0001 C CNN
 	1    4000 2200
 	0    -1   -1   0   
@@ -595,7 +595,7 @@ AR Path="/5B887737/5B891CA4" Ref="D?"  Part="1"
 AR Path="/5B89AD18/5B891CA4" Ref="D14"  Part="1" 
 F 0 "D14" V 4796 2288 50  0000 L CNN
 F 1 "BAT54S" V 4705 2288 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-323_SC-70" H 4825 2325 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 4825 2325 50  0001 L CNN
 F 3 "https://www.diodes.com/assets/Datasheets/ds11005.pdf" H 4630 2200 50  0001 C CNN
 	1    4750 2200
 	0    -1   -1   0   
@@ -639,7 +639,7 @@ AR Path="/5B887737/5B891CB8" Ref="D?"  Part="1"
 AR Path="/5B89AD18/5B891CB8" Ref="D15"  Part="1" 
 F 0 "D15" V 5546 2288 50  0000 L CNN
 F 1 "BAT54S" V 5455 2288 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-323_SC-70" H 5575 2325 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 5575 2325 50  0001 L CNN
 F 3 "https://www.diodes.com/assets/Datasheets/ds11005.pdf" H 5380 2200 50  0001 C CNN
 	1    5500 2200
 	0    -1   -1   0   
@@ -683,7 +683,7 @@ AR Path="/5B887737/5B891CCC" Ref="D?"  Part="1"
 AR Path="/5B89AD18/5B891CCC" Ref="D16"  Part="1" 
 F 0 "D16" V 6296 2288 50  0000 L CNN
 F 1 "BAT54S" V 6205 2288 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-323_SC-70" H 6325 2325 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 6325 2325 50  0001 L CNN
 F 3 "https://www.diodes.com/assets/Datasheets/ds11005.pdf" H 6130 2200 50  0001 C CNN
 	1    6250 2200
 	0    -1   -1   0   
@@ -727,7 +727,7 @@ AR Path="/5B887737/5B891CE0" Ref="D?"  Part="1"
 AR Path="/5B89AD18/5B891CE0" Ref="D17"  Part="1" 
 F 0 "D17" V 1046 3388 50  0000 L CNN
 F 1 "BAT54S" V 955 3388 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-323_SC-70" H 1075 3425 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 1075 3425 50  0001 L CNN
 F 3 "https://www.diodes.com/assets/Datasheets/ds11005.pdf" H 880 3300 50  0001 C CNN
 	1    1000 3300
 	0    -1   -1   0   
@@ -771,7 +771,7 @@ AR Path="/5B887737/5B891CF4" Ref="D?"  Part="1"
 AR Path="/5B89AD18/5B891CF4" Ref="D18"  Part="1" 
 F 0 "D18" V 1796 3388 50  0000 L CNN
 F 1 "BAT54S" V 1705 3388 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-323_SC-70" H 1825 3425 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 1825 3425 50  0001 L CNN
 F 3 "https://www.diodes.com/assets/Datasheets/ds11005.pdf" H 1630 3300 50  0001 C CNN
 	1    1750 3300
 	0    -1   -1   0   
@@ -815,7 +815,7 @@ AR Path="/5B887737/5B891D08" Ref="D?"  Part="1"
 AR Path="/5B89AD18/5B891D08" Ref="D19"  Part="1" 
 F 0 "D19" V 2546 3388 50  0000 L CNN
 F 1 "BAT54S" V 2455 3388 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-323_SC-70" H 2575 3425 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 2575 3425 50  0001 L CNN
 F 3 "https://www.diodes.com/assets/Datasheets/ds11005.pdf" H 2380 3300 50  0001 C CNN
 	1    2500 3300
 	0    -1   -1   0   
@@ -859,7 +859,7 @@ AR Path="/5B887737/5B891D1C" Ref="D?"  Part="1"
 AR Path="/5B89AD18/5B891D1C" Ref="D20"  Part="1" 
 F 0 "D20" V 3296 3388 50  0000 L CNN
 F 1 "BAT54S" V 3205 3388 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-323_SC-70" H 3325 3425 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 3325 3425 50  0001 L CNN
 F 3 "https://www.diodes.com/assets/Datasheets/ds11005.pdf" H 3130 3300 50  0001 C CNN
 	1    3250 3300
 	0    -1   -1   0   
@@ -903,7 +903,7 @@ AR Path="/5B887737/5B891D30" Ref="D?"  Part="1"
 AR Path="/5B89AD18/5B891D30" Ref="D21"  Part="1" 
 F 0 "D21" V 4046 3388 50  0000 L CNN
 F 1 "BAT54S" V 3955 3388 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-323_SC-70" H 4075 3425 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 4075 3425 50  0001 L CNN
 F 3 "https://www.diodes.com/assets/Datasheets/ds11005.pdf" H 3880 3300 50  0001 C CNN
 	1    4000 3300
 	0    -1   -1   0   
@@ -947,7 +947,7 @@ AR Path="/5B887737/5B891D44" Ref="D?"  Part="1"
 AR Path="/5B89AD18/5B891D44" Ref="D22"  Part="1" 
 F 0 "D22" V 4796 3388 50  0000 L CNN
 F 1 "BAT54S" V 4705 3388 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-323_SC-70" H 4825 3425 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 4825 3425 50  0001 L CNN
 F 3 "https://www.diodes.com/assets/Datasheets/ds11005.pdf" H 4630 3300 50  0001 C CNN
 	1    4750 3300
 	0    -1   -1   0   
@@ -991,7 +991,7 @@ AR Path="/5B887737/5B891D58" Ref="D?"  Part="1"
 AR Path="/5B89AD18/5B891D58" Ref="D23"  Part="1" 
 F 0 "D23" V 5546 3388 50  0000 L CNN
 F 1 "BAT54S" V 5455 3388 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-323_SC-70" H 5575 3425 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 5575 3425 50  0001 L CNN
 F 3 "https://www.diodes.com/assets/Datasheets/ds11005.pdf" H 5380 3300 50  0001 C CNN
 	1    5500 3300
 	0    -1   -1   0   
@@ -1035,7 +1035,7 @@ AR Path="/5B887737/5B891D6C" Ref="D?"  Part="1"
 AR Path="/5B89AD18/5B891D6C" Ref="D24"  Part="1" 
 F 0 "D24" V 6296 3388 50  0000 L CNN
 F 1 "BAT54S" V 6205 3388 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-323_SC-70" H 6325 3425 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 6325 3425 50  0001 L CNN
 F 3 "https://www.diodes.com/assets/Datasheets/ds11005.pdf" H 6130 3300 50  0001 C CNN
 	1    6250 3300
 	0    -1   -1   0   
@@ -1079,7 +1079,7 @@ AR Path="/5B887737/5B891D80" Ref="D?"  Part="1"
 AR Path="/5B89AD18/5B891D80" Ref="D25"  Part="1" 
 F 0 "D25" V 1046 4488 50  0000 L CNN
 F 1 "BAT54S" V 955 4488 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-323_SC-70" H 1075 4525 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 1075 4525 50  0001 L CNN
 F 3 "https://www.diodes.com/assets/Datasheets/ds11005.pdf" H 880 4400 50  0001 C CNN
 	1    1000 4400
 	0    -1   -1   0   
@@ -1123,7 +1123,7 @@ AR Path="/5B887737/5B891D94" Ref="D?"  Part="1"
 AR Path="/5B89AD18/5B891D94" Ref="D26"  Part="1" 
 F 0 "D26" V 1796 4488 50  0000 L CNN
 F 1 "BAT54S" V 1705 4488 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-323_SC-70" H 1825 4525 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 1825 4525 50  0001 L CNN
 F 3 "https://www.diodes.com/assets/Datasheets/ds11005.pdf" H 1630 4400 50  0001 C CNN
 	1    1750 4400
 	0    -1   -1   0   
@@ -1167,7 +1167,7 @@ AR Path="/5B887737/5B891DA8" Ref="D?"  Part="1"
 AR Path="/5B89AD18/5B891DA8" Ref="D27"  Part="1" 
 F 0 "D27" V 2546 4488 50  0000 L CNN
 F 1 "BAT54S" V 2455 4488 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-323_SC-70" H 2575 4525 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 2575 4525 50  0001 L CNN
 F 3 "https://www.diodes.com/assets/Datasheets/ds11005.pdf" H 2380 4400 50  0001 C CNN
 	1    2500 4400
 	0    -1   -1   0   
@@ -1211,7 +1211,7 @@ AR Path="/5B887737/5B891DBC" Ref="D?"  Part="1"
 AR Path="/5B89AD18/5B891DBC" Ref="D28"  Part="1" 
 F 0 "D28" V 3296 4488 50  0000 L CNN
 F 1 "BAT54S" V 3205 4488 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-323_SC-70" H 3325 4525 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 3325 4525 50  0001 L CNN
 F 3 "https://www.diodes.com/assets/Datasheets/ds11005.pdf" H 3130 4400 50  0001 C CNN
 	1    3250 4400
 	0    -1   -1   0   
@@ -1255,7 +1255,7 @@ AR Path="/5B887737/5B891DD0" Ref="D?"  Part="1"
 AR Path="/5B89AD18/5B891DD0" Ref="D29"  Part="1" 
 F 0 "D29" V 4046 4488 50  0000 L CNN
 F 1 "BAT54S" V 3955 4488 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-323_SC-70" H 4075 4525 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 4075 4525 50  0001 L CNN
 F 3 "https://www.diodes.com/assets/Datasheets/ds11005.pdf" H 3880 4400 50  0001 C CNN
 	1    4000 4400
 	0    -1   -1   0   
@@ -1299,7 +1299,7 @@ AR Path="/5B887737/5B891DE4" Ref="D?"  Part="1"
 AR Path="/5B89AD18/5B891DE4" Ref="D30"  Part="1" 
 F 0 "D30" V 4796 4488 50  0000 L CNN
 F 1 "BAT54S" V 4705 4488 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-323_SC-70" H 4825 4525 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 4825 4525 50  0001 L CNN
 F 3 "https://www.diodes.com/assets/Datasheets/ds11005.pdf" H 4630 4400 50  0001 C CNN
 	1    4750 4400
 	0    -1   -1   0   
@@ -1343,7 +1343,7 @@ AR Path="/5B887737/5B891DF8" Ref="D?"  Part="1"
 AR Path="/5B89AD18/5B891DF8" Ref="D31"  Part="1" 
 F 0 "D31" V 5546 4488 50  0000 L CNN
 F 1 "BAT54S" V 5455 4488 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-323_SC-70" H 5575 4525 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 5575 4525 50  0001 L CNN
 F 3 "https://www.diodes.com/assets/Datasheets/ds11005.pdf" H 5380 4400 50  0001 C CNN
 	1    5500 4400
 	0    -1   -1   0   
@@ -1387,7 +1387,7 @@ AR Path="/5B887737/5B891E0C" Ref="D?"  Part="1"
 AR Path="/5B89AD18/5B891E0C" Ref="D32"  Part="1" 
 F 0 "D32" V 6296 4488 50  0000 L CNN
 F 1 "BAT54S" V 6205 4488 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-323_SC-70" H 6325 4525 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 6325 4525 50  0001 L CNN
 F 3 "https://www.diodes.com/assets/Datasheets/ds11005.pdf" H 6130 4400 50  0001 C CNN
 	1    6250 4400
 	0    -1   -1   0   
@@ -1431,7 +1431,7 @@ AR Path="/5B887737/5B891E20" Ref="D?"  Part="1"
 AR Path="/5B89AD18/5B891E20" Ref="D33"  Part="1" 
 F 0 "D33" V 1046 5588 50  0000 L CNN
 F 1 "BAT54S" V 955 5588 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-323_SC-70" H 1075 5625 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 1075 5625 50  0001 L CNN
 F 3 "https://www.diodes.com/assets/Datasheets/ds11005.pdf" H 880 5500 50  0001 C CNN
 	1    1000 5500
 	0    -1   -1   0   
@@ -1475,7 +1475,7 @@ AR Path="/5B887737/5B891E34" Ref="D?"  Part="1"
 AR Path="/5B89AD18/5B891E34" Ref="D34"  Part="1" 
 F 0 "D34" V 1796 5588 50  0000 L CNN
 F 1 "BAT54S" V 1705 5588 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-323_SC-70" H 1825 5625 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 1825 5625 50  0001 L CNN
 F 3 "https://www.diodes.com/assets/Datasheets/ds11005.pdf" H 1630 5500 50  0001 C CNN
 	1    1750 5500
 	0    -1   -1   0   
@@ -1519,7 +1519,7 @@ AR Path="/5B887737/5B891E48" Ref="D?"  Part="1"
 AR Path="/5B89AD18/5B891E48" Ref="D35"  Part="1" 
 F 0 "D35" V 2546 5588 50  0000 L CNN
 F 1 "BAT54S" V 2455 5588 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-323_SC-70" H 2575 5625 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 2575 5625 50  0001 L CNN
 F 3 "https://www.diodes.com/assets/Datasheets/ds11005.pdf" H 2380 5500 50  0001 C CNN
 	1    2500 5500
 	0    -1   -1   0   
@@ -2207,7 +2207,7 @@ AR Path="/5B887737/5BA4DD15" Ref="D?"  Part="1"
 AR Path="/5B89AD18/5BA4DD15" Ref="D36"  Part="1" 
 F 0 "D36" V 3296 5588 50  0000 L CNN
 F 1 "BAT54S" V 3205 5588 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-323_SC-70" H 3325 5625 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 3325 5625 50  0001 L CNN
 F 3 "https://www.diodes.com/assets/Datasheets/ds11005.pdf" H 3130 5500 50  0001 C CNN
 	1    3250 5500
 	0    -1   -1   0   
@@ -2253,7 +2253,7 @@ AR Path="/5B887737/5BA53B88" Ref="D?"  Part="1"
 AR Path="/5B89AD18/5BA53B88" Ref="D37"  Part="1" 
 F 0 "D37" V 4046 5588 50  0000 L CNN
 F 1 "BAT54S" V 3955 5588 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-323_SC-70" H 4075 5625 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 4075 5625 50  0001 L CNN
 F 3 "https://www.diodes.com/assets/Datasheets/ds11005.pdf" H 3880 5500 50  0001 C CNN
 	1    4000 5500
 	0    -1   -1   0   
@@ -2299,7 +2299,7 @@ AR Path="/5B887737/5BA59BF2" Ref="D?"  Part="1"
 AR Path="/5B89AD18/5BA59BF2" Ref="D38"  Part="1" 
 F 0 "D38" V 4796 5588 50  0000 L CNN
 F 1 "BAT54S" V 4705 5588 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-323_SC-70" H 4825 5625 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 4825 5625 50  0001 L CNN
 F 3 "https://www.diodes.com/assets/Datasheets/ds11005.pdf" H 4630 5500 50  0001 C CNN
 	1    4750 5500
 	0    -1   -1   0   
@@ -2345,7 +2345,7 @@ AR Path="/5B887737/5BA601BB" Ref="D?"  Part="1"
 AR Path="/5B89AD18/5BA601BB" Ref="D39"  Part="1" 
 F 0 "D39" V 5546 5588 50  0000 L CNN
 F 1 "BAT54S" V 5455 5588 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-323_SC-70" H 5575 5625 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 5575 5625 50  0001 L CNN
 F 3 "https://www.diodes.com/assets/Datasheets/ds11005.pdf" H 5380 5500 50  0001 C CNN
 	1    5500 5500
 	0    -1   -1   0   
@@ -2391,7 +2391,7 @@ AR Path="/5B887737/5BA66679" Ref="D?"  Part="1"
 AR Path="/5B89AD18/5BA66679" Ref="D40"  Part="1" 
 F 0 "D40" V 6346 5588 50  0000 L CNN
 F 1 "BAT54S" V 6255 5588 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-323_SC-70" H 6375 5625 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 6375 5625 50  0001 L CNN
 F 3 "https://www.diodes.com/assets/Datasheets/ds11005.pdf" H 6180 5500 50  0001 C CNN
 	1    6300 5500
 	0    -1   -1   0   
