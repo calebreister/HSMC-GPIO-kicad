@@ -435,10 +435,6 @@ NoConn ~ 6050 8500
 Wire Wire Line
 	6850 8200 7250 8200
 Wire Wire Line
-	6950 8300 6950 8400
-Wire Wire Line
-	6950 8400 7700 8400
-Wire Wire Line
 	6850 8300 6950 8300
 $Comp
 L power:GND #PWR022
@@ -961,166 +957,6 @@ Wire Wire Line
 	10300 8300 10400 8300
 Wire Wire Line
 	10300 8300 10300 9000
-Text Label 8050 1400 2    50   ~ 0
-GPIO39
-Text Label 8050 1500 2    50   ~ 0
-GPIO38
-Text Label 8050 1700 2    50   ~ 0
-GPIO37
-Text Label 8050 1800 2    50   ~ 0
-GPIO36
-Text Label 8050 2000 2    50   ~ 0
-GPIO35
-Text Label 8050 2100 2    50   ~ 0
-GPIO34
-Text Label 8050 2300 2    50   ~ 0
-GPIO33
-Text Label 8050 2400 2    50   ~ 0
-GPIO32
-Text Label 8050 2600 2    50   ~ 0
-GPIO31
-Text Label 8050 2700 2    50   ~ 0
-GPIO30
-Text Label 8050 2900 2    50   ~ 0
-GPIO29
-Text Label 8050 3000 2    50   ~ 0
-GPIO28
-Text Label 8050 3200 2    50   ~ 0
-GPIO27
-Text Label 8050 3300 2    50   ~ 0
-GPIO26
-Text Label 8050 3500 2    50   ~ 0
-GPIO25
-Text Label 8050 3600 2    50   ~ 0
-GPIO24
-Text Label 8050 3800 2    50   ~ 0
-GPIO23
-Text Label 8050 3900 2    50   ~ 0
-GPIO22
-Text Label 8050 4100 2    50   ~ 0
-GPIO21
-Text Label 8050 4200 2    50   ~ 0
-GPIO20
-Text Label 12200 1450 2    50   ~ 0
-GPIO19
-Text Label 12200 1550 2    50   ~ 0
-GPIO18
-Text Label 12200 1750 2    50   ~ 0
-GPIO17
-Text Label 12200 1850 2    50   ~ 0
-GPIO16
-Text Label 12200 2050 2    50   ~ 0
-GPIO15
-Text Label 12200 2150 2    50   ~ 0
-GPIO14
-Text Label 12200 2350 2    50   ~ 0
-GPIO13
-Text Label 12200 2450 2    50   ~ 0
-GPIO12
-Text Label 12200 2650 2    50   ~ 0
-GPIO11
-Text Label 12200 2750 2    50   ~ 0
-GPIO10
-Text Label 12200 2950 2    50   ~ 0
-GPIO9
-Text Label 12200 3050 2    50   ~ 0
-GPIO8
-Text Label 12200 3250 2    50   ~ 0
-GPIO7
-Text Label 12200 3350 2    50   ~ 0
-GPIO6
-Text Label 12200 3550 2    50   ~ 0
-GPIO5
-Text Label 12200 3650 2    50   ~ 0
-GPIO4
-Text Label 12200 3850 2    50   ~ 0
-GPIO3
-Text Label 12200 3950 2    50   ~ 0
-GPIO2
-Text Label 12200 4150 2    50   ~ 0
-GPIO1
-Text Label 12200 4250 2    50   ~ 0
-GPIO0
-Wire Wire Line
-	12250 1450 11750 1450
-Wire Wire Line
-	12250 1550 11750 1550
-Wire Wire Line
-	12250 1750 11750 1750
-Wire Wire Line
-	12250 1850 11750 1850
-Wire Wire Line
-	12250 2050 11750 2050
-Wire Wire Line
-	12250 2150 11750 2150
-Wire Wire Line
-	12250 2350 11750 2350
-Wire Wire Line
-	12250 2450 11750 2450
-Wire Wire Line
-	12250 2650 11750 2650
-Wire Wire Line
-	12250 2750 11750 2750
-Wire Wire Line
-	12250 2950 11750 2950
-Wire Wire Line
-	12250 3050 11750 3050
-Wire Wire Line
-	12250 3250 11750 3250
-Wire Wire Line
-	12250 3350 11750 3350
-Wire Wire Line
-	12250 3550 11750 3550
-Wire Wire Line
-	12250 3650 11750 3650
-Wire Wire Line
-	12250 3850 11750 3850
-Wire Wire Line
-	12250 3950 11750 3950
-Wire Wire Line
-	12250 4150 11750 4150
-Wire Wire Line
-	12250 4250 11750 4250
-Wire Wire Line
-	7600 1400 8100 1400
-Wire Wire Line
-	7600 1500 8100 1500
-Wire Wire Line
-	7600 1700 8100 1700
-Wire Wire Line
-	7600 1800 8100 1800
-Wire Wire Line
-	7600 2000 8100 2000
-Wire Wire Line
-	7600 2100 8100 2100
-Wire Wire Line
-	7600 2300 8100 2300
-Wire Wire Line
-	7600 2400 8100 2400
-Wire Wire Line
-	7600 2600 8100 2600
-Wire Wire Line
-	7600 2700 8100 2700
-Wire Wire Line
-	7600 2900 8100 2900
-Wire Wire Line
-	7600 3000 8100 3000
-Wire Wire Line
-	7600 3200 8100 3200
-Wire Wire Line
-	7600 3300 8100 3300
-Wire Wire Line
-	7600 3500 8100 3500
-Wire Wire Line
-	7600 3600 8100 3600
-Wire Wire Line
-	7600 3800 8100 3800
-Wire Wire Line
-	7600 3900 8100 3900
-Wire Wire Line
-	7600 4100 8100 4100
-Wire Wire Line
-	7600 4200 8100 4200
 Wire Wire Line
 	11850 4050 11750 4050
 $Comp
@@ -1315,6 +1151,172 @@ Wire Wire Line
 	6350 7700 6350 7800
 Wire Wire Line
 	6550 7750 6550 7800
+Wire Wire Line
+	6950 8300 7250 8300
+Wire Wire Line
+	7250 8300 7250 8400
+Wire Wire Line
+	7250 8400 7700 8400
+Text Label 12200 1450 2    50   ~ 0
+GPIO0
+Text Label 12200 1550 2    50   ~ 0
+GPIO1
+Text Label 12200 1750 2    50   ~ 0
+GPIO2
+Text Label 12200 1850 2    50   ~ 0
+GPIO3
+Text Label 12200 2050 2    50   ~ 0
+GPIO4
+Text Label 12200 2150 2    50   ~ 0
+GPIO5
+Text Label 12200 2350 2    50   ~ 0
+GPIO6
+Text Label 12200 2450 2    50   ~ 0
+GPIO7
+Text Label 12200 2650 2    50   ~ 0
+GPIO8
+Text Label 12200 2750 2    50   ~ 0
+GPIO9
+Text Label 12200 2950 2    50   ~ 0
+GPIO10
+Text Label 12200 3050 2    50   ~ 0
+GPIO11
+Text Label 12200 3250 2    50   ~ 0
+GPIO12
+Text Label 12200 3350 2    50   ~ 0
+GPIO13
+Text Label 12200 3550 2    50   ~ 0
+GPIO14
+Text Label 12200 3650 2    50   ~ 0
+GPIO15
+Text Label 12200 3850 2    50   ~ 0
+GPIO16
+Text Label 12200 3950 2    50   ~ 0
+GPIO17
+Text Label 12200 4150 2    50   ~ 0
+GPIO18
+Text Label 12200 4250 2    50   ~ 0
+GPIO19
+Text Label 8050 1400 2    50   ~ 0
+GPIO20
+Text Label 8050 1500 2    50   ~ 0
+GPIO21
+Text Label 8050 1700 2    50   ~ 0
+GPIO22
+Text Label 8050 1800 2    50   ~ 0
+GPIO23
+Text Label 8050 2000 2    50   ~ 0
+GPIO24
+Text Label 8050 2100 2    50   ~ 0
+GPIO25
+Text Label 8050 2300 2    50   ~ 0
+GPIO26
+Text Label 8050 2400 2    50   ~ 0
+GPIO27
+Text Label 8050 2600 2    50   ~ 0
+GPIO28
+Text Label 8050 2700 2    50   ~ 0
+GPIO29
+Text Label 8050 2900 2    50   ~ 0
+GPIO30
+Text Label 8050 3000 2    50   ~ 0
+GPIO31
+Text Label 8050 3200 2    50   ~ 0
+GPIO32
+Text Label 8050 3300 2    50   ~ 0
+GPIO33
+Text Label 8050 3500 2    50   ~ 0
+GPIO34
+Text Label 8050 3600 2    50   ~ 0
+GPIO35
+Text Label 8050 3800 2    50   ~ 0
+GPIO36
+Text Label 8050 3900 2    50   ~ 0
+GPIO37
+Text Label 8050 4100 2    50   ~ 0
+GPIO38
+Text Label 8050 4200 2    50   ~ 0
+GPIO39
+Wire Wire Line
+	12250 1450 11750 1450
+Wire Wire Line
+	12250 1550 11750 1550
+Wire Wire Line
+	12250 1750 11750 1750
+Wire Wire Line
+	12250 1850 11750 1850
+Wire Wire Line
+	12250 2050 11750 2050
+Wire Wire Line
+	12250 2150 11750 2150
+Wire Wire Line
+	12250 2350 11750 2350
+Wire Wire Line
+	12250 2450 11750 2450
+Wire Wire Line
+	12250 2650 11750 2650
+Wire Wire Line
+	12250 2750 11750 2750
+Wire Wire Line
+	12250 2950 11750 2950
+Wire Wire Line
+	12250 3050 11750 3050
+Wire Wire Line
+	12250 3250 11750 3250
+Wire Wire Line
+	12250 3350 11750 3350
+Wire Wire Line
+	12250 3550 11750 3550
+Wire Wire Line
+	12250 3650 11750 3650
+Wire Wire Line
+	12250 3850 11750 3850
+Wire Wire Line
+	12250 3950 11750 3950
+Wire Wire Line
+	12250 4150 11750 4150
+Wire Wire Line
+	12250 4250 11750 4250
+Wire Wire Line
+	7600 1400 8100 1400
+Wire Wire Line
+	7600 1500 8100 1500
+Wire Wire Line
+	7600 1700 8100 1700
+Wire Wire Line
+	7600 1800 8100 1800
+Wire Wire Line
+	7600 2000 8100 2000
+Wire Wire Line
+	7600 2100 8100 2100
+Wire Wire Line
+	7600 2300 8100 2300
+Wire Wire Line
+	7600 2400 8100 2400
+Wire Wire Line
+	7600 2600 8100 2600
+Wire Wire Line
+	7600 2700 8100 2700
+Wire Wire Line
+	7600 2900 8100 2900
+Wire Wire Line
+	7600 3000 8100 3000
+Wire Wire Line
+	7600 3200 8100 3200
+Wire Wire Line
+	7600 3300 8100 3300
+Wire Wire Line
+	7600 3500 8100 3500
+Wire Wire Line
+	7600 3600 8100 3600
+Wire Wire Line
+	7600 3800 8100 3800
+Wire Wire Line
+	7600 3900 8100 3900
+Wire Wire Line
+	7600 4100 8100 4100
+Wire Wire Line
+	7600 4200 8100 4200
 Wire Bus Line
 	8300 900  13050 900 
 Wire Bus Line
