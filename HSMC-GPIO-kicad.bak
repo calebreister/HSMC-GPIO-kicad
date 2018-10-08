@@ -492,17 +492,6 @@ F 3 "" H 10300 7500 50  0001 C CNN
 	1    10300 7500
 	1    0    0    -1  
 $EndComp
-$Comp
-L Device:C C4
-U 1 1 5DB7538F
-P 11200 7200
-F 0 "C4" H 11085 7154 50  0000 R CNN
-F 1 "100n" H 11085 7245 50  0000 R CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric" H 11238 7050 50  0001 C CNN
-F 3 "" H 11200 7200 50  0001 C CNN
-	1    11200 7200
-	-1   0    0    1   
-$EndComp
 Wire Wire Line
 	10800 7050 10800 6950
 Connection ~ 10800 6950
@@ -542,11 +531,6 @@ F 3 "" H 10600 8400 50  0001 C CNN
 	1    10600 8400
 	1    0    0    -1  
 $EndComp
-Connection ~ 10800 7450
-Wire Wire Line
-	11200 7050 11200 6950
-Wire Wire Line
-	11200 7450 11200 7350
 $Comp
 L Device:CP1 C2
 U 1 1 5DEDB05B
@@ -558,10 +542,6 @@ F 3 "" H 9800 7200 50  0001 C CNN
 	1    9800 7200
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	10800 6950 11200 6950
-Wire Wire Line
-	10800 7450 11200 7450
 Wire Wire Line
 	11850 4350 11850 4450
 $Comp
@@ -1391,31 +1371,20 @@ F 3 "" H 10800 4700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Bus Line
+	8300 900  13050 900 
+Wire Bus Line
 	12350 1000 12350 4150
 Wire Bus Line
 	8200 1000 8200 4100
-Wire Bus Line
-	8300 900  13050 900 
 $Comp
-L Mechanical:MountingHole MH2
-U 1 1 5BB1C6A7
-P 12950 8300
-F 0 "MH2" H 13050 8346 50  0000 L CNN
-F 1 "MountingHole" H 13050 8255 50  0000 L CNN
-F 2 "HSMC:MountingHole" H 12950 8300 50  0001 C CNN
-F 3 "~" H 12950 8300 50  0001 C CNN
-	1    12950 8300
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole MH1
-U 1 1 5BB1C4CD
-P 12950 8050
-F 0 "MH1" H 13050 8096 50  0000 L CNN
-F 1 "MountingHole" H 13050 8005 50  0000 L CNN
-F 2 "HSMC:MountingHole" H 12950 8050 50  0001 C CNN
-F 3 "~" H 12950 8050 50  0001 C CNN
-	1    12950 8050
+L Graphic:Logo_Open_Hardware_Small LOGO1
+U 1 1 5BBC65F6
+P 12600 9600
+F 0 "LOGO1" H 12600 9875 50  0001 C CNN
+F 1 "Logo_Open_Hardware_Small" H 12600 9375 50  0001 C CNN
+F 2 "Symbol:OSHW-Logo2_7.3x6mm_Copper" H 12600 9600 50  0001 C CNN
+F 3 "~" H 12600 9600 50  0001 C CNN
+	1    12600 9600
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
