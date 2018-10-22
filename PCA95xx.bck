@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP PCA9507
-D 2-wire serial bus extender for HDMI DDC I2C-bus and SMBus
-K level-shifting I2C buffer
-F https://www.nxp.com/docs/en/data-sheet/PCA9507.pdf
-$ENDCMP
-#
-#End Doc Library
