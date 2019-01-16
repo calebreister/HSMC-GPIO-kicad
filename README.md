@@ -9,7 +9,15 @@ This is a test project created to test my new [HSMC Card KiCad footprints](https
 - Buffered I2C port with selectable voltage
 
 ## Pictures
+![Assembled PCB](images/pcb.jpg)
 
+![PCB Top](images/pcb-top.jpg)
+
+![PCB Bottom](images/pcb-bottom.jpg)
+
+![PCB Attached to an FPGA board](images/fpga.jpg)
+
+![40-pin ribbon cable](images/ribbon.jpg)
 
 ## License
 
