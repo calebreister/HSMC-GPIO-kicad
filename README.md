@@ -1,6 +1,6 @@
 # HSMC-GPIO-kicad
 
-This is a test project created to test my new [HSMC Card KiCad footprints](https://github.com/KiCad/kicad-footprints/pulls?page=1&q=is%3Apr+is%3Aopen). It is based loosely on the [Terasis HSTC-GPIO Card](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=322). In small quantities, the cost is comparable to the HSTC-GPIO Card.
+This is a project created to test my new [HSMC Card KiCad footprints](https://github.com/KiCad/kicad-footprints/pulls?page=1&q=is%3Apr+is%3Aopen). It is based loosely on the [Terasis HSTC-GPIO Card](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=322). In small quantities, the cost is comparable to the HSTC-GPIO Card.
 
 ## Features
 - 40 GPIO pins
