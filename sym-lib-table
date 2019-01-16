@@ -1,4 +1,5 @@
 (sym_lib_table
-  (lib (name HSMC)(type Legacy)(uri /home/caleb/Desktop/HSMC-GPIO-kicad/HSMC.lib)(options "")(descr ""))
   (lib (name PCA95xx)(type Legacy)(uri /home/caleb/Desktop/HSMC-GPIO-kicad/PCA95xx.lib)(options "")(descr ""))
+  (lib (name Connector_HSMC)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Connector_HSMC.lib)(options "")(descr ""))
+  (lib (name HSMC-GPIO-kicad-rescue)(type Legacy)(uri ${KIPRJMOD}/HSMC-GPIO-kicad-rescue.lib)(options "")(descr ""))
 )

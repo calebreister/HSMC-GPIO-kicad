@@ -4,7 +4,7 @@ EELAYER 26 0
 EELAYER END
 $Descr USLedger 17000 11000
 encoding utf-8
-Sheet 1 2
+Sheet 1 3
 Title "HSMC GPIO Breakout"
 Date ""
 Rev ""
@@ -25,237 +25,6 @@ F 3 "" H 2600 4700 50  0001 C CNN
 	1    2600 4700
 	1    0    0    -1  
 $EndComp
-$Comp
-L power:+3V3 #PWR0107
-U 1 1 5B90C48A
-P 5450 1200
-F 0 "#PWR0107" H 5450 1050 50  0001 C CNN
-F 1 "+3V3" H 5465 1373 50  0000 C CNN
-F 2 "" H 5450 1200 50  0001 C CNN
-F 3 "" H 5450 1200 50  0001 C CNN
-	1    5450 1200
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	5600 1600 5450 1600
-Wire Wire Line
-	5450 1600 5450 1200
-Wire Wire Line
-	5600 1900 5450 1900
-Wire Wire Line
-	5450 1900 5450 1600
-Connection ~ 5450 1600
-Wire Wire Line
-	5600 2200 5450 2200
-Wire Wire Line
-	5450 2200 5450 1900
-Connection ~ 5450 1900
-Wire Wire Line
-	5600 2500 5450 2500
-Wire Wire Line
-	5450 2500 5450 2200
-Connection ~ 5450 2200
-Wire Wire Line
-	5600 2800 5450 2800
-Wire Wire Line
-	5450 2800 5450 2500
-Connection ~ 5450 2500
-Wire Wire Line
-	5600 3100 5450 3100
-Wire Wire Line
-	5450 3100 5450 2800
-Connection ~ 5450 2800
-Wire Wire Line
-	5600 3400 5450 3400
-Wire Wire Line
-	5450 3400 5450 3100
-Connection ~ 5450 3100
-Wire Wire Line
-	5600 3700 5450 3700
-Wire Wire Line
-	5450 3700 5450 3400
-Connection ~ 5450 3400
-Wire Wire Line
-	5600 4000 5450 4000
-Wire Wire Line
-	5450 4000 5450 3700
-Connection ~ 5450 3700
-Wire Wire Line
-	5600 4300 5450 4300
-Wire Wire Line
-	5450 4300 5450 4000
-Connection ~ 5450 4000
-$Comp
-L power:+12V #PWR0108
-U 1 1 5B977B81
-P 7700 1200
-F 0 "#PWR0108" H 7700 1050 50  0001 C CNN
-F 1 "+12V" H 7715 1373 50  0000 C CNN
-F 2 "" H 7700 1200 50  0001 C CNN
-F 3 "" H 7700 1200 50  0001 C CNN
-	1    7700 1200
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	7600 1600 7700 1600
-Wire Wire Line
-	7700 1600 7700 1200
-Wire Wire Line
-	7600 1900 7700 1900
-Wire Wire Line
-	7700 1900 7700 1600
-Connection ~ 7700 1600
-Wire Wire Line
-	7600 2200 7700 2200
-Wire Wire Line
-	7700 2200 7700 1900
-Connection ~ 7700 1900
-Wire Wire Line
-	7600 2500 7700 2500
-Wire Wire Line
-	7700 2500 7700 2200
-Connection ~ 7700 2200
-Wire Wire Line
-	7600 2800 7700 2800
-Wire Wire Line
-	7700 2800 7700 2500
-Connection ~ 7700 2500
-Wire Wire Line
-	7600 3100 7700 3100
-Wire Wire Line
-	7700 3100 7700 2800
-Connection ~ 7700 2800
-Wire Wire Line
-	7600 3400 7700 3400
-Wire Wire Line
-	7700 3400 7700 3100
-Connection ~ 7700 3100
-Wire Wire Line
-	7600 3700 7700 3700
-Wire Wire Line
-	7700 3700 7700 3400
-Connection ~ 7700 3400
-Wire Wire Line
-	7600 4000 7700 4000
-Wire Wire Line
-	7700 4000 7700 3700
-Connection ~ 7700 3700
-Wire Wire Line
-	7600 4300 7700 4300
-Wire Wire Line
-	7700 4300 7700 4000
-Connection ~ 7700 4000
-$Comp
-L power:+3V3 #PWR0109
-U 1 1 5BAF11F1
-P 9650 1250
-F 0 "#PWR0109" H 9650 1100 50  0001 C CNN
-F 1 "+3V3" H 9665 1423 50  0000 C CNN
-F 2 "" H 9650 1250 50  0001 C CNN
-F 3 "" H 9650 1250 50  0001 C CNN
-	1    9650 1250
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	9750 1650 9650 1650
-Wire Wire Line
-	9650 1650 9650 1250
-Wire Wire Line
-	9750 1950 9650 1950
-Wire Wire Line
-	9650 1950 9650 1650
-Connection ~ 9650 1650
-Wire Wire Line
-	9750 2250 9650 2250
-Wire Wire Line
-	9650 2250 9650 1950
-Connection ~ 9650 1950
-Wire Wire Line
-	9750 2550 9650 2550
-Wire Wire Line
-	9650 2550 9650 2250
-Connection ~ 9650 2250
-Wire Wire Line
-	9750 2850 9650 2850
-Wire Wire Line
-	9650 2850 9650 2550
-Connection ~ 9650 2550
-Wire Wire Line
-	9750 3150 9650 3150
-Wire Wire Line
-	9650 3150 9650 2850
-Connection ~ 9650 2850
-Wire Wire Line
-	9750 3450 9650 3450
-Wire Wire Line
-	9650 3450 9650 3150
-Connection ~ 9650 3150
-Wire Wire Line
-	9750 3750 9650 3750
-Wire Wire Line
-	9650 3750 9650 3450
-Connection ~ 9650 3450
-Wire Wire Line
-	9750 4050 9650 4050
-Wire Wire Line
-	9650 4050 9650 3750
-Connection ~ 9650 3750
-Wire Wire Line
-	9650 4350 9650 4050
-Connection ~ 9650 4050
-$Comp
-L power:+12V #PWR0110
-U 1 1 5BBF337B
-P 11850 1250
-F 0 "#PWR0110" H 11850 1100 50  0001 C CNN
-F 1 "+12V" H 11865 1423 50  0000 C CNN
-F 2 "" H 11850 1250 50  0001 C CNN
-F 3 "" H 11850 1250 50  0001 C CNN
-	1    11850 1250
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	11750 1650 11850 1650
-Wire Wire Line
-	11850 1650 11850 1250
-Wire Wire Line
-	11850 4050 11850 3750
-Connection ~ 11850 1650
-Wire Wire Line
-	11750 1950 11850 1950
-Connection ~ 11850 1950
-Wire Wire Line
-	11850 1950 11850 1650
-Wire Wire Line
-	11750 2250 11850 2250
-Connection ~ 11850 2250
-Wire Wire Line
-	11850 2250 11850 1950
-Wire Wire Line
-	11750 2550 11850 2550
-Connection ~ 11850 2550
-Wire Wire Line
-	11850 2550 11850 2250
-Wire Wire Line
-	11750 2850 11850 2850
-Connection ~ 11850 2850
-Wire Wire Line
-	11850 2850 11850 2550
-Wire Wire Line
-	11750 3150 11850 3150
-Connection ~ 11850 3150
-Wire Wire Line
-	11850 3150 11850 2850
-Wire Wire Line
-	11750 3450 11850 3450
-Connection ~ 11850 3450
-Wire Wire Line
-	11850 3450 11850 3150
-Wire Wire Line
-	11750 3750 11850 3750
-Connection ~ 11850 3750
-Wire Wire Line
-	11850 3750 11850 3450
 Text Label 3900 3800 2    50   ~ 0
 SCL
 $Comp
@@ -542,17 +311,15 @@ F 3 "" H 9800 7200 50  0001 C CNN
 	1    9800 7200
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	11850 4350 11850 4450
 $Comp
 L power:GND #PWR0111
 U 1 1 5B9C4C6C
-P 11850 4450
-F 0 "#PWR0111" H 11850 4200 50  0001 C CNN
-F 1 "GND" H 11855 4277 50  0000 C CNN
-F 2 "" H 11850 4450 50  0001 C CNN
-F 3 "" H 11850 4450 50  0001 C CNN
-	1    11850 4450
+P 10750 4750
+F 0 "#PWR0111" H 10750 4500 50  0001 C CNN
+F 1 "GND" H 10755 4577 50  0000 C CNN
+F 2 "" H 10750 4750 50  0001 C CNN
+F 3 "" H 10750 4750 50  0001 C CNN
+	1    10750 4750
 	1    0    0    -1  
 $EndComp
 NoConn ~ 5600 4100
@@ -563,10 +330,6 @@ NoConn ~ 1600 4100
 NoConn ~ 1600 3900
 Text Label 1300 3800 0    50   ~ 0
 SDA
-Wire Wire Line
-	11850 4350 11750 4350
-Wire Wire Line
-	9650 4350 9750 4350
 Entry Wire Line
 	12250 1550 12350 1450
 Entry Wire Line
@@ -785,8 +548,6 @@ Wire Wire Line
 	10300 8300 10400 8300
 Wire Wire Line
 	10300 8300 10300 9000
-Wire Wire Line
-	11850 4050 11750 4050
 NoConn ~ 3600 1500
 NoConn ~ 3600 1400
 Wire Wire Line
@@ -810,17 +571,6 @@ Wire Wire Line
 Connection ~ 10050 8600
 Wire Wire Line
 	10050 8600 10050 8700
-$Comp
-L Interface:PCA9507 U2
-U 1 1 5BA8983E
-P 5500 8300
-F 0 "U2" H 5800 8750 50  0000 R CNN
-F 1 "PCA9507" H 5500 8200 50  0000 C CNN
-F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 5100 8650 50  0001 C CNN
-F 3 "https://www.nxp.com/docs/en/data-sheet/PCA9507.pdf" H 5200 8750 50  0001 C CNN
-	1    5500 8300
-	1    0    0    -1  
-$EndComp
 $Comp
 L Device:R R43
 U 1 1 5BA8A6F0
@@ -1248,8 +998,6 @@ Wire Wire Line
 Wire Wire Line
 	7600 7650 7600 7750
 Wire Wire Line
-	1600 1600 1500 1600
-Wire Wire Line
 	1500 1600 1500 1900
 Wire Wire Line
 	1600 1900 1500 1900
@@ -1338,39 +1086,6 @@ Connection ~ 6050 6550
 Wire Wire Line
 	6050 6550 6050 6600
 $Comp
-L Connector:HSMC_Card_QTH J2
-U 1 1 5BE75A31
-P 2600 2900
-F 0 "J2" H 2600 4667 50  0000 C CNN
-F 1 "HSMC_Card_QTH" H 2600 4576 50  0000 C CNN
-F 2 "Connector_Samtec:Samtec_HSMC_Card_QTH-090-01-x-D-A_3.076x0.932in_P0.5mm_Vertical" H 1700 4650 50  0001 C CNN
-F 3 "" H 2650 4650 50  0001 C CNN
-	1    2600 2900
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:HSMC_Card_QTH J2
-U 2 1 5BE75AD4
-P 6600 2900
-F 0 "J2" H 6600 4667 50  0000 C CNN
-F 1 "HSMC_Card_QTH" H 6600 4576 50  0000 C CNN
-F 2 "Connector_Samtec:Samtec_HSMC_Card_QTH-090-01-x-D-A_3.076x0.932in_P0.5mm_Vertical" H 5700 4650 50  0001 C CNN
-F 3 "" H 6650 4650 50  0001 C CNN
-	2    6600 2900
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:HSMC_Card_QTH J2
-U 3 1 5BE75C0F
-P 10750 2950
-F 0 "J2" H 10750 4717 50  0000 C CNN
-F 1 "HSMC_Card_QTH" H 10750 4626 50  0000 C CNN
-F 2 "Connector_Samtec:Samtec_HSMC_Card_QTH-090-01-x-D-A_3.076x0.932in_P0.5mm_Vertical" H 9850 4700 50  0001 C CNN
-F 3 "" H 10800 4700 50  0001 C CNN
-	3    10750 2950
-	1    0    0    -1  
-$EndComp
-$Comp
 L Graphic:Logo_Open_Hardware_Small LOGO1
 U 1 1 5BBC65F6
 P 12600 9600
@@ -1381,10 +1096,78 @@ F 3 "~" H 12600 9600 50  0001 C CNN
 	1    12600 9600
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	1500 1600 1600 1600
+$Comp
+L HSMC-GPIO-kicad-rescue:HSMC_Card_QTH-Connector_HSMC J2
+U 1 1 5C420D27
+P 2600 2900
+F 0 "J2" H 1850 4550 50  0000 C CNN
+F 1 "HSMC_Card_QTH" H 3100 1250 50  0000 C CNN
+F 2 "Connector_Samtec:Samtec_HSMC_Card_QTH-090-01-x-D-A_3.076x0.932in_P0.5mm_Vertical" H 1700 4650 50  0001 C CNN
+F 3 "" H 2650 4650 50  0001 C CNN
+	1    2600 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L HSMC-GPIO-kicad-rescue:HSMC_Card_QTH-Connector_HSMC J2
+U 2 1 5C4212F8
+P 6600 2900
+F 0 "J2" H 6600 4667 50  0000 C CNN
+F 1 "HSMC_Card_QTH" H 6600 4576 50  0000 C CNN
+F 2 "Connector_Samtec:Samtec_HSMC_Card_QTH-090-01-x-D-A_3.076x0.932in_P0.5mm_Vertical" H 5700 4650 50  0001 C CNN
+F 3 "" H 6650 4650 50  0001 C CNN
+	2    6600 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+12V #PWR0107
+U 1 1 5C4AE382
+P 2800 1100
+F 0 "#PWR0107" H 2800 950 50  0001 C CNN
+F 1 "+12V" H 2815 1273 50  0000 C CNN
+F 2 "" H 2800 1100 50  0001 C CNN
+F 3 "" H 2800 1100 50  0001 C CNN
+	1    2800 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3V3 #PWR0108
+U 1 1 5C4AE422
+P 2400 1100
+F 0 "#PWR0108" H 2400 950 50  0001 C CNN
+F 1 "+3V3" H 2415 1273 50  0000 C CNN
+F 2 "" H 2400 1100 50  0001 C CNN
+F 3 "" H 2400 1100 50  0001 C CNN
+	1    2400 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCA95xx:PCA9507 U2
+U 1 1 5C4AFCBB
+P 5500 8300
+F 0 "U2" H 5250 8750 50  0000 C CNN
+F 1 "PCA9507" H 5700 7850 50  0000 C CNN
+F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 5100 8650 50  0001 C CNN
+F 3 "https://www.nxp.com/docs/en/data-sheet/PCA9507.pdf" H 5200 8750 50  0001 C CNN
+	1    5500 8300
+	1    0    0    -1  
+$EndComp
+$Comp
+L HSMC-GPIO-kicad-rescue:HSMC_Card_QTH-Connector_HSMC J2
+U 3 1 5C4B0AEB
+P 10750 2950
+F 0 "J2" H 10750 4717 50  0000 C CNN
+F 1 "HSMC_Card_QTH" H 10750 4626 50  0000 C CNN
+F 2 "Connector_Samtec:Samtec_HSMC_Card_QTH-090-01-x-D-A_3.076x0.932in_P0.5mm_Vertical" H 9850 4700 50  0001 C CNN
+F 3 "" H 10900 4700 50  0001 C CNN
+	3    10750 2950
+	1    0    0    -1  
+$EndComp
 Wire Bus Line
 	8300 900  13050 900 
 Wire Bus Line
-	12350 1000 12350 4150
-Wire Bus Line
 	8200 1000 8200 4100
+Wire Bus Line
+	12350 1000 12350 4150
 $EndSCHEMATC
